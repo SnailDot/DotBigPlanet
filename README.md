@@ -1,5 +1,5 @@
 # DotBigPlanet
-A tool to help you customize Little Big Planet VITA + PSP to your liking
+A tool to help you customize Little Big Planet to your liking
 
 *Made for Windows 11 java*
 
@@ -18,7 +18,7 @@ The goal of this program is make the entire proccess of getting into LBP, downlo
 - DotBigPlanet's ability to read profile infomation like Name, Amount of items, etc is directly powered by toolkit which is another LBP save editor/viewer tool.
 - All Community save files are from the Little Big Planet Archive, while all Fresh + DBP Save files are made by me.
 - All Community levels and moons are from the Little Big Planet Archive, while all DBP Moons are made by me.
-- I love the vita more than anything else, so thats always gonna get the most care as ive learned more about it compared to the PS3/PS4/PSP.
+- *I love the vita more than anything else, so thats always gonna get the most care as ive learned more about it compared to the PS3/PS4/PSP.*
 
 ## LBP VITA FEATURES:
 - Download screenshots taken in-game as a PNG file
