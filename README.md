@@ -1,5 +1,5 @@
 # DotBigPlanet
-A tool to help you customize Little Big Planet to your liking
+A tool to unlock/change Little Big Planet to your liking
 
 *Made for Windows 11 java*
 
@@ -7,17 +7,17 @@ The goal of this program is make the entire proccess of getting into LBP, downlo
 
 # OVER ALL FEATURES (For All LBP Games other than karting)
 - Option to auto find your save folder for your LBP if you dont know where it is
-- Auto install DLC for you (you must get the DLC files yourself)
 - Download community and fresh save files without internet
 - Download community and moon levels without internet
-- Download and replace images
-- Read and edit all profile infomation
+- Download images
+- Read all profile infomation
 - Save files for special LBP titles like LBP PSP Alpha
 
 # IMPORTANT INFO
-- DotBigPlanet's ability to read profile infomation like Name, Amount of items, etc is directly powered by toolkit which is another LBP save editor/viewer tool.
+- DotBigPlanet's ability to read profile infomation like profile name, moon names, and community level names is directly powered by toolkit which is another LBP save editor/viewer tool.
 - All Community save files are from the Little Big Planet Archive, while all Fresh + DBP Save files are made by me.
 - All Community levels and moons are from the Little Big Planet Archive, while all DBP Moons are made by me.
+- Run Sack Boy Run as of 2025 isn't able to run on most phones, but it does still run perfectly on the vita, which is why the RSR vita editor seems better than the RSR phone editor
 - *I love the vita more than anything else, so thats always gonna get the most care as ive learned more about it compared to the PS3/PS4/PSP.*
 
 ## LBP VITA FEATURES:
