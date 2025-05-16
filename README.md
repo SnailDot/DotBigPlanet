@@ -22,3 +22,10 @@ The goal of this program is make the entire proccess of getting into LBP, downlo
 - Backup your save file
 - Auto find your save file if you dont know where it is
 - Show EVERYTHING relating to your save file and profile (that I could find that is)
+
+# Extra Project Info
+- DotBigPlanet Discord Server:
+
+- My twitter: @DotSnail_
+- My Discord: @DotSnail_
+- My Email:
