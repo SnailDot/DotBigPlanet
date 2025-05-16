@@ -24,6 +24,9 @@ The goal of this program is make the entire proccess of getting into LBP, downlo
 - Show EVERYTHING relating to your save file and profile (that I could find that is)
 
 # Extra Project Info
+- Toolkit: https://github.com/ennuo/toolkit
+- Little Big Planet Archive: https://littlebigarchive.com/
+
 - DotBigPlanet Discord Server:
 
 - My twitter: @DotSnail_
